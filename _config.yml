@@ -1,14 +1,14 @@
 # Site settings
-title: Your awesome title
+title: From 
 tagline: And Tagline
-email: gayanvirajith@gmail.com
+email: owen.dismuke@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi, I’m a professional UI/UX designrer and web developer. 
+  Hi, I’m a professional software engineer and web developer. 
   I love being minimal and creative.
 baseurl: "/gaya" # the subpath of your site, e.g. /blog/
-url: "http://gayan.me" # the base hostname & protocol for your site
+url: "http://owendismuke.github.io" # the base hostname & protocol for your site
 logourl: /assets/images/logo.png # Site logo
-author: "Tom Warlker"
+author: "Owen Dismuke"
 author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
 # Theme customization - please change from the defaults!
 theme:
@@ -16,12 +16,12 @@ theme:
   highlight_color: "#205081" #205081" # "#272935"
   # Social media links, leave blank to ignore
   social: 
-    github: gayanvirajith
-    twitter: gayanvirajith
-    facebook: gayanvirajith
-    gplus: +gayanvirajith
+    github: owendismuke
+    twitter: owen_dismuke
+    # facebook: owendismuke
+    gplus: +owendismuke
     # dribble: gayanvirajith
-    pinterest: gayanvirajith
+    pinterest: owendismuke
 
   # Enable share buttons on post footer
   show_share_buttons: true
