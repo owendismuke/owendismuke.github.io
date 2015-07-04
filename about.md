@@ -6,19 +6,22 @@ banner_image: sample-banner-image-2.jpg
 banner_image_alt: About me
 ---
 
-Hi, I am Tom Warlker. I am a professional UI/UX designrer and web developer. I love being minimal and creative.
+Hi, I am Owen Dismuke. I am a professional software engineer and web developer.
 
-I prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+My background is in the Microsoft stack (C#, .Net, SQL), but I am currently in an intensive developer boot camp, [Hack Reactor][hr].
+
+#### Education
+* Bachelors of Science in Computer Information Systems from [DeVry University][devry]
+* Associates of Occupational Studies in Automotive Technology from [Universal Technical Institute][uti]  
+* Associates of Applied Sciences in Vehicle Maintenance from [Community College of the Air Force][ccaf]
+* Associates of Applied Sciences in Munitions Systems Technology from [Community College of the Air Force][ccaf]
 
 ### Contact me
-
-Say `Hello` at gayanvirajith@gmail.com or find
-me on
-
 ---
 
 {% include social.html %}
 
-[pw]: http://processwire.com
-[jekyll]: http://jekyllrb.com
+[hr]: http://www.hackreactor.com
+[devry]: http://www.devry.edu
+[uti]: http://www.uti.edu
+[ccaf]: http://www.au.af.mil/au/barnes/ccaf/
