@@ -32,8 +32,8 @@ theme:
   # disqus_shortname: gaya-webcreate
 
   # Google Analytics/Webmaster key, leave blank to ignore
-  google_analytics_key: 
-  google_webmaster_key: 
+  google_analytics_key: UA-53406314-3
+  google_webmaster_key: BjkWMO8EdjSu7DhhoJKobIqITOLLRa5WkZGDm1hCsWM
 
 # Build settings
 markdown: kramdown
