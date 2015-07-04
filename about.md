@@ -21,7 +21,7 @@ My background is in the Microsoft stack (C#, .Net, SQL) utilizing web forms, MVC
     * [Community College of the Air Force][ccaf]
 
 ### Contact me 
-{% include social.html %}
+  {% include social.html %}
 
 [hr]: http://www.hackreactor.com
 [devry]: http://www.devry.edu
