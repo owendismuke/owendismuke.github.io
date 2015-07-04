@@ -21,9 +21,9 @@ My background is in the Microsoft stack (C#, .Net, SQL) utilizing web forms, MVC
    *  [Community College of the Air Force][ccaf]
 
 1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
+    1. sub item one
+      2. sub item two
+        3. sub item three
 2. Item two
 
 ### Contact me 
