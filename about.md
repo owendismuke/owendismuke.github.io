@@ -20,7 +20,8 @@ My background is in the Microsoft stack (C#, .Net, SQL) utilizing web forms, MVC
 * Associates of Applied Sciences in Munitions Systems Technology 
   * [Community College of the Air Force][ccaf]
 
-### Contact me {% include social.html %}
+### Contact me 
+{% include social.html %}
 
 [hr]: http://www.hackreactor.com
 [devry]: http://www.devry.edu
