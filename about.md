@@ -12,13 +12,13 @@ My background is in the Microsoft stack (C#, .Net, SQL) utilizing web forms, MVC
 
 ### Education
 
-[DeVry University][devry]
+#### [DeVry University][devry]
 * Bachelors of Science in Computer Information Systems
 
-[Universal Technical Institute][uti]  
+#### [Universal Technical Institute][uti]  
 * Associates of Occupational Studies in Automotive Technology
 
-[Community College of the Air Force][ccaf]
+#### [Community College of the Air Force][ccaf]
 * Associates of Applied Sciences in Vehicle Maintenance
 * Associates of Applied Sciences in Munitions Systems Technology
 
