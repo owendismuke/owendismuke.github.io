@@ -6,9 +6,7 @@ banner_image: sample-banner-image-2.jpg
 banner_image_alt: About me
 ---
 
-Hi, I am Owen Dismuke. I am a professional software engineer and web developer.
-
-My background is in the Microsoft stack (C#, .Net, SQL) utilizing web forms, MVC, and AngularJS front ends, but I am currently in an intensive software engineering boot camp, [Hack Reactor][hr].
+Hi, I am Owen Dismuke. I am a professional software engineer and web developer with a background in the Microsoft stack (C#, .Net, SQL) utilizing web forms, MVC, and AngularJS front ends. Currently, I am attending an intensive software engineering boot camp called [Hack Reactor][hr].
 
 ### Education
 
