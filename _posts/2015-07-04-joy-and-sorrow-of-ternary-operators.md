@@ -44,7 +44,7 @@ Without ternary:
 ~~~ javascript
 function deepEqual(thing1, thing2){
     if (thing1 === thing2){
-    return true;
+      return true;
     }
     
     if (typeof thing1 !== "object" || typeof thing2 !== "object"){
@@ -52,7 +52,7 @@ function deepEqual(thing1, thing2){
     } 
     
     return !!Object.keys(thing1).reduce(function(prev,curr){
-        if (prev) { return deepEqual(thing1[curr], thing2[curr]); }
+      if (prev) { return deepEqual(thing1[curr], thing2[curr]); }
     }, true);
 };
 ~~~
@@ -62,10 +62,10 @@ With ternary:
 ~~~ javascript
 function deepEqual(thing1, thing2){
     return thing1 === thing2
-        ? true : typeof thing1 !== "object" || typeof thing2 !== "object"
-            ? false : !!Object.keys(thing1).reduce(function(prev,curr){
-                    if (prev) { return deepEqual(thing1[curr], thing2[curr]); }
-                }, true);
+      ? true : typeof thing1 !== "object" || typeof thing2 !== "object"
+        ? false : !!Object.keys(thing1).reduce(function(prev,curr){
+            if (prev) { return deepEqual(thing1[curr], thing2[curr]); }
+          }, true);
 };
 ~~~
 
