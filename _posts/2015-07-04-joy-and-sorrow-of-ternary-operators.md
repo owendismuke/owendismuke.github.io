@@ -71,7 +71,7 @@ function deepEqual(thing1, thing2){
 
 ### Did you just nest a ternary operator?!?
 
-Yes, I did. While the return statement is technically now one line of code. It is definitely harder to read. The maintenance cost; however, is much higher. If I wanted to swap out the reduce function or add any other steps in this process, I would have to spend the time to decipher the nested ternary to figure out at what step the new code needs to be inserted, not to mention the time spent debugging values through this statement.
+Yes, I did. While the return statement is technically now one line of code. It is definitely harder to read. However, the maintenance cost is much higher. If I wanted to swap out the reduce function or add any other steps in this process, I would have to spend the time to decipher the nested ternary to figure out at what step the new code needs to be inserted, not to mention the time spent debugging values through this statement.
 
 In conclusion. Like all other shorthand code you may come across, ternary operators are not an end all, be all to all code situations. In my opinion, I would recommend that you take into consideration how often is the code maintained, how stable is the codebase, and what level are the other developers that will need to understand this code.
 
