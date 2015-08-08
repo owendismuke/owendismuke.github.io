@@ -82,4 +82,4 @@ By using the fact that JavaScript passes objects by reference, we now have a sha
 To play with this code, check out this [JSFiddle][fiddle].
 
 
-[fiddle]: http://jsfiddle.net/owendismuke/UL54D/
+[fiddle]: https://jsfiddle.net/UL54D/7/
