@@ -17,14 +17,14 @@ var app = angular.module("app", [])
   .controller("first", function() {
     var _this = this;
     _this.data1 = {
-      test: 'initial text 1'
+      text: 'initial text 1'
     };
   })
 
   .controller("second", function() {
     var _this = this;
     _this.data2 = {
-      test: 'initial text 2'
+      text: 'initial text 2'
     };
   });
 ~~~
@@ -43,14 +43,14 @@ var app = angular.module("app", [])
   .controller("first", function() {
     var _this = this;
     _this.data1 = {
-      test: 'initial text 1'
+      text: 'initial text 1'
     };
   })
 
   .controller("second", function() {
     var _this = this;
     _this.data2 = {
-      test: 'initial text 2'
+      text: 'initial text 2'
     };
   });
 ~~~
