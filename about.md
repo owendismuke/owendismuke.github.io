@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About Me
 permalink: /about/
 banner_image: sample-banner-image-2.jpg
 banner_image_alt: About me
