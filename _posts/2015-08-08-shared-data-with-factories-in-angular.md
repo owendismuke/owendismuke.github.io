@@ -81,5 +81,8 @@ By using the fact that JavaScript passes objects by reference, we now have a sha
 
 To play with this code, check out this [JSFiddle][fiddle].
 
+I would like to thank [Josh Carroll][jc] for his blog [5 Guidelines For Avoiding Scope Soup in Angular][tf]. His post brought me up to speed in Angular quicker than any other.
 
 [fiddle]: https://jsfiddle.net/UL54D/7/
+[jc]: http://www.technofattie.com/about/
+[tf]: http://www.technofattie.com/2014/03/21/five-guidelines-for-avoiding-scope-soup-in-angular.html
