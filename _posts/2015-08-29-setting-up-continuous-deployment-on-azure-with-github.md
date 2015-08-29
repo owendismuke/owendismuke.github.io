@@ -23,12 +23,12 @@ Log in to your Azure account and bring up the Web App you created for this proje
 Connect Azure to your GitHub repository. Depending on if you are using the preview or classic portal on Azure, the steps will be different.
 
 #### Azure Preview Portal:  
-1. In `Settings > Continuous Deployment > Choose Source`, select GitHub.
-2. If this is your first time connecting to GitHub, enter your credentials and grant access to the necessary organizations.
-3. Choose the organization that the repository belongs to.
-4. Choose the project (repository).
-5. Choose the deployment branch you made note of earlier.
-6. Fix any errors and enjoy your deployed site.
+1.  In `Settings > Continuous Deployment > Choose Source`, select GitHub.
+2.  If this is your first time connecting to GitHub, enter your credentials and grant access to the necessary organizations.
+3.  Choose the organization that the repository belongs to.
+4.  Choose the project (repository).
+5.  Choose the deployment branch you made note of earlier.
+6.  Fix any errors and enjoy your deployed site.
 
 #### Azure Portal (classic):  
 1. In the Dashboard, select `Set up deployment from source control` from the quick glance menu on the right under the graph.
