@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using GitHub for Conitnuous Deployment to Azure"
+title:  "Using GitHub for Continuous Deployment to Azure"
 date:   2015-08-29 14:00:49-7
 categories:
 - Azure
@@ -34,7 +34,7 @@ Connect Azure to your GitHub repository. Depending on if you are using the previ
 1. In the Dashboard, select `Set up deployment from source control` from the quick glance menu on the right under the graph.  
 2. Select GitHub from the options given in `Where is your source code?`  and click the right arrow at the bottom of the pop up.  
 3. If this is your first time connecting to GitHub, enter your credentials and grant access to the necessary organizations.  
-4. Select the repository from the dropdown and manually enter the name of the branch to deploy in the input box.  
+4. Select the repository from the dropdown menu and manually enter the name of the branch to deploy in the input box.  
 5. Fix any errors and enjoy your deployed site.
 
 
