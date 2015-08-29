@@ -23,19 +23,19 @@ Log in to your Azure account and bring up the Web App you created for this proje
 Connect Azure to your GitHub repository. Depending on if you are using the preview or classic portal on Azure, the steps will be different.
 
 #### Azure Preview Portal:  
-1.  In `Settings > Continuous Deployment > Choose Source`, select GitHub.
-2.  If this is your first time connecting to GitHub, enter your credentials and grant access to the necessary organizations.
-3.  Choose the organization that the repository belongs to.
-4.  Choose the project (repository).
-5.  Choose the deployment branch you made note of earlier.
-6.  Fix any errors and enjoy your deployed site.
++  In `Settings > Continuous Deployment > Choose Source`, select GitHub.
++  If this is your first time connecting to GitHub, enter your credentials and grant access to the necessary organizations.
++  Choose the organization that the repository belongs to.
++  Choose the project (repository).
++  Choose the deployment branch you made note of earlier.
++  Fix any errors and enjoy your deployed site.
 
 #### Azure Portal (classic):  
-1. In the Dashboard, select `Set up deployment from source control` from the quick glance menu on the right under the graph.
-2. Select GitHub from the options given in `Where is your source code?`  and click the right arrow at the bottom of the pop up.
-3. If this is your first time connecting to GitHub, enter your credentials and grant access to the necessary organizations.
-4. Select the repository from the dropdown menu and manually enter the name of the branch to deploy in the input box.
-5. Fix any errors and enjoy your deployed site.
++ In the Dashboard, select `Set up deployment from source control` from the quick glance menu on the right under the graph.
++ Select GitHub from the options given in `Where is your source code?`  and click the right arrow at the bottom of the pop up.
++ If this is your first time connecting to GitHub, enter your credentials and grant access to the necessary organizations.
++ Select the repository from the dropdown menu and manually enter the name of the branch to deploy in the input box.
++ Fix any errors and enjoy your deployed site.
 
 
 [azure]: http://azure.microsoft.com
