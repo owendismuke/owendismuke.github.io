@@ -6,7 +6,7 @@ banner_image: sample-banner-image-2.jpg
 banner_image_alt: About Me
 ---
 
-Hi, I am Owen Dismuke. I am a husband, soon-to-be father, professional software engineer and web developer. My background is in the Microsoft stack (C#, .Net, SQL, web forms, and MVC) and the JavaScript stack (NodeJS, ExpressJS, AngularJS, BackboneJS, MongoDB, D3JS, ReactJS, MySQL, SQLite).
+Hi, I am Owen Dismuke. I am a father, husband, veteran, grease monkey, professional software engineer, and a huge nerd. My background is in the Microsoft stack (C#, .Net, SQL, web forms, and MVC) and the JavaScript stack (NodeJS, ExpressJS, AngularJS, BackboneJS, MongoDB, D3JS, ReactJS, MySQL, SQLite).
 
 ### Education
 
