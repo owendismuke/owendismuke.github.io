@@ -24,7 +24,7 @@ Hi, I am Owen Dismuke. I am a father, husband, veteran, grease monkey, professio
 * Associates of Applied Sciences in Munitions Systems Technology
 
 #### [Barnes Center for Enlisted Education][barnes]
-* Non-Commissioned Officer Leadership Development Course
+* Non-Commissioned Officer Academy (Distance Learning)
 
 ### Contribute
 If you want to contribute to keeping Monad Nomad up and running and have a say in future posts, please support my [Patreon][patreon].
