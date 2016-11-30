@@ -14,13 +14,14 @@ theme:
   # Color for sidebar bar, links, etc
   highlight_color: "#205081" #205081" # "#272935"
   # Social media links, leave blank to ignore
-  social: 
+  social:
     github: owendismuke
     twitter: owen_dismuke
     # facebook: owendismuke
     gplus: +owendismuke
     # dribble: gayanvirajith
     # pinterest: owendismuke
+    patreon: monadnomad
 
   # Enable share buttons on post footer
   show_share_buttons: true
