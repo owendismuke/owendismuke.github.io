@@ -23,10 +23,17 @@ Hi, I am Owen Dismuke. I am a father, husband, veteran, grease monkey, professio
 * Associates of Applied Sciences in Vehicle Maintenance
 * Associates of Applied Sciences in Munitions Systems Technology
 
+#### Barnes Distance Learning Center
+* Non-Commissioned Officer Leadership Development Course
+
 ### Contact Me 
   {% include social.html %}
+
+### Contribute
+If you want to contribute to keeping Monad Nomad up and running and have a say in future posts, please support my [Patreon][patreon].
 
 [hr]: http://www.hackreactor.com
 [devry]: http://www.devry.edu
 [uti]: http://www.uti.edu
 [ccaf]: http://www.au.af.mil/au/barnes/ccaf/
+[patreon]: https://www.patreon.com/monadnomad
