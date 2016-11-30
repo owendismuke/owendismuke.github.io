@@ -6,18 +6,17 @@ banner_image: sample-banner-image-3.jpg
 ---
 
 <div>
-  <ul>
-  {% for post in site.posts %}
-    {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
-    {% if currentyear != year %}
-      <!-- {% unless forloop.first %} -->
-      </ul>
-      <!-- {% endunless %} -->
-      <h5>{{ currentyear }}</h5>
-      <ul>
-      {% capture year %}{{currentyear}}{% endcapture %} 
+{% for post in site.posts %}
+  {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
+  {% if currentyear <> year %}
+    {% if forloop.first <> true %} 
+    </ul>
     {% endif %}
-    <li><a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-  </ul>
+    <h5>{{ currentyear }}</h5>
+    <ul>
+    {% capture year %}{{currentyear}}{% endcapture %} 
+  {% endif %}
+      <li><a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></li>
+{% endfor %}
+    </ul>
 </div>
