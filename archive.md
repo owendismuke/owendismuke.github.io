@@ -6,12 +6,13 @@ banner_image: sample-banner-image-3.jpg
 ---
 
 <div>
+  <ul>
   {% for post in site.posts %}
     {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
     {% if currentyear != year %}
-      {% unless forloop.first %}
+      <!-- {% unless forloop.first %} -->
       </ul>
-      {% endunless %}
+      <!-- {% endunless %} -->
       <h5>{{ currentyear }}</h5>
       <ul>
       {% capture year %}{{currentyear}}{% endcapture %} 
