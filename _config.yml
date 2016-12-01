@@ -61,4 +61,8 @@ sass:
   style: :compressed
 
 # Gems
-gems: [jekyll-paginate]
+gems: 
+  - jekyll-paginate
+
+# Repo
+repository: owendismuke/owendismuke.github.io
