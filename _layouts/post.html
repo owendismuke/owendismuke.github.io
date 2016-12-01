@@ -32,7 +32,7 @@ layout: default
   </header>
 
   <article class="post-content">
-    {{ content }}   
+    {{ content }}
   </article>
 
   {% if site.related_posts %}
@@ -54,11 +54,11 @@ layout: default
   {% endif %}
 
   <div class="author-info">
-    {% if site.theme.show_author_info %}
+    {% if site.config.show_author_info %}
       {% include author.html %}
     {% endif %}
   
-    {% if site.theme.show_share_buttons %}
+    {% if site.config.show_share_buttons %}
       {% include share-buttons.html %}
     {% endif %}  
   </div>
